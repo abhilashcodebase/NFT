@@ -1,0 +1,19 @@
+{
+    "title": "Asset Metadata",
+    "type": "object",
+    "properties": {
+        "name": {
+            "type": "string",
+            "description": "nft for asset"
+        },
+        "description": {
+            "type": "string",
+            "description": "Describes the asset to which this NFT represents"
+        },
+        "image": {
+            "type": "string",
+            "description": "https://ipfs.io/ipfs/QmUdW1rRH8KnPHn9K75tDM9Lazdd681pK5nYsTSazXRcCt"
+        }
+    }
+}
+
